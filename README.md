@@ -32,3 +32,7 @@ Executing
 * Start servlet container on port 8080 (or modify following instructions accordingly)
 * Navigate to http://localhost:8080/alexis
 * Login as admin/admin
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/wwfalcon/openalexis/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
